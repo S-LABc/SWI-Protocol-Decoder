@@ -9,6 +9,7 @@
 * Мои наблюдения показали, что напряжение на линии данных соотвествует SDQ, а протокол больше похож на HDQ, но с некоторыми отличиями.
 * За основу этого декода взят декодер [sdq](https://sigrok.org/wiki/Protocol_decoder:Sdq) для [PulseView](https://sigrok.org/wiki/Downloads)
 * Я назвал декодер SWI потому, что такая аббревиатура часто встречается в схемах от MacBook. Вероятно расшифровывается как Single Wire Interface (однопроводный интерфейс).
+* china_lightning_usb_2.0_iphone_7.dsl - файл с обменом между китайским Lightning и iPhone 7
 
 ## Ссылки
 * [Официальный сайт DreamSourceLab](https://www.dreamsourcelab.com/)
