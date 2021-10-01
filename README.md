@@ -12,7 +12,7 @@
 * china_lightning_usb_2.0_iphone_7.dsl - файл с обменом между китайским Lightning и iPhone 7
 
 ## Установка
-* [Скачать ZIP-архив](https://github.com/S-LABc/SWI-Protocol-Decoder/releases/download/v1.0/swi.zip) последней версии из раздела [Releases](https://github.com/S-LABc/SWI-Protocol-Decoder/releases)
+* Скачать ZIP-архив нужной версии из раздела [Releases](https://github.com/S-LABc/SWI-Protocol-Decoder/releases)
 * Для [DSView](https://www.dreamsourcelab.com/download/) извлечь содержимое скаченного архива в папку **decoders**. Путь по умолчанию *C:\Program Files\DSView\decoders*.
 
 ## Ссылки
